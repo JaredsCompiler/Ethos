@@ -1,0 +1,3 @@
+[submodule "Lexus"]
+	path = Lexus
+	url = https://github.com/JaredsCompiler/Lexus.git
